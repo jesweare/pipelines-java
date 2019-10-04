@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jesweare/azure-pipeline-test/_apis/build/status/jesweare.pipelines-java?branchName=master)](https://dev.azure.com/jesweare/azure-pipeline-test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
